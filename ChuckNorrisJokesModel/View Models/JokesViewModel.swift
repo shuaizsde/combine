@@ -34,7 +34,7 @@ public final class JokesViewModel {
     public enum DecisionState {
     case disliked, undecided, liked
   }
-  
+  //xxx
   private static let decoder = JSONDecoder()
 
   //TODO: add services here
